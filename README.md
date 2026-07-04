@@ -7,3 +7,6 @@ Get it now for 95% off with the link:
 https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
 
 Thanks!
+
+
+# Working on July 2026
